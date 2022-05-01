@@ -1,0 +1,11 @@
+.pic {
+  width: 140px;
+  height: 140px;
+}
+.text h3 {
+  color: black;
+  margin-bottom: 50px;
+  margin-top: 30px;
+  text-transform: capitalize;
+  font-size: 30px;
+}
