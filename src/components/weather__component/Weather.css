@@ -47,6 +47,10 @@
 }
 .date {
   color: black;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  list-style: none;
   font-size: 20px;
 }
 .location h3 {
@@ -56,4 +60,9 @@
   color: black;
   text-align: center;
   margin-left: 200px;
+}
+.date .time {
+  color: black;
+  font-weight: bolder;
+  font-size: 25px;
 }
